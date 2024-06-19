@@ -1,0 +1,22 @@
+2024/06/08-13:56:22.349 635e Reusing MANIFEST /home/batman/.config/chromium/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/08-13:56:22.349 635e Recovering log #3
+2024/06/08-13:56:22.350 635e Reusing old log /home/batman/.config/chromium/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/000003.log 
+2024/06/08-13:56:22.680 6366 Level-0 table #5: started
+2024/06/08-13:56:22.682 6366 Level-0 table #5: 9244 bytes OK
+2024/06/08-13:56:22.683 6366 Delete type=0 #3
+2024/06/08-13:56:22.684 635e Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/08-13:56:42.389 6366 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/08-13:56:50.452 6366 Level-0 table #7: started
+2024/06/08-13:56:50.454 6366 Level-0 table #7: 13071 bytes OK
+2024/06/08-13:56:50.455 6366 Delete type=0 #4
+2024/06/08-13:56:50.455 635f Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/08-13:57:04.122 6367 Level-0 table #9: started
+2024/06/08-13:57:04.124 6367 Level-0 table #9: 6723 bytes OK
+2024/06/08-13:57:04.125 6367 Delete type=0 #6
+2024/06/08-13:57:04.125 6367 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 327 : 1
+2024/06/08-13:57:04.125 6367 Compacting 1@0 + 1@1 files
+2024/06/08-13:57:04.126 6367 Generated table #10@0: 57 keys, 3565 bytes
+2024/06/08-13:57:04.126 6367 Compacted 1@0 + 1@1 files => 3565 bytes
+2024/06/08-13:57:04.127 6367 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/08-13:57:04.128 6367 Delete type=2 #9
+2024/06/08-13:57:04.128 6367 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 327 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,7 @@
+2024/06/19-10:22:39.732 66e Reusing MANIFEST /home/batman/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-10:22:39.732 66e Recovering log #3
+2024/06/19-10:22:39.733 66e Reusing old log /home/batman/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 
+2024/06/19-10:30:25.448 67d Level-0 table #5: started
+2024/06/19-10:30:25.450 67d Level-0 table #5: 8374 bytes OK
+2024/06/19-10:30:25.452 67d Delete type=0 #3
+2024/06/19-10:30:25.452 67d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

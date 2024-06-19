@@ -1,0 +1,139 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">cQ==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/AndroidStudioProjects/MyApplication">
+      <jump line="43" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="37" column="30" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="58" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-android/1.5.0/93fe41cafd1a48e258d7a55d849f77255b8b2b61/runtime-android-1.5.0-sources.jar!/commonMain/androidx/compose/runtime/Composable.kt" />
+      <jump line="42" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-android/1.5.0/93fe41cafd1a48e258d7a55d849f77255b8b2b61/runtime-android-1.5.0-sources.jar!/commonMain/androidx/compose/runtime/Composable.kt" />
+      <jump line="59" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-android/1.5.0/93fe41cafd1a48e258d7a55d849f77255b8b2b61/runtime-android-1.5.0-sources.jar!/commonMain/androidx/compose/runtime/Composable.kt" />
+      <jump line="11" column="39" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="118" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.8.0/d56176e5b2b55654d898039f3c3685cc9c221af7/activity-1.8.0-sources.jar!/androidx/activity/ComponentActivity.java" />
+      <jump line="3" column="36" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="50" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity-compose/1.8.0/6c5ebff07639f79cfcf9f86a3e08a7c9397748f8/activity-compose-1.8.0-sources.jar!/androidx/activity/compose/ComponentActivity.kt" />
+      <jump line="4" column="35" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="73" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3/1.1.1/b9a3d0f4c53337afaae41359428fccab65f915c3/material3-1.1.1-sources.jar!/androidx/compose/material3/Scaffold.kt" />
+      <jump line="36" column="4" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/ui/theme/Theme.kt" />
+      <jump line="21" column="27" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="40" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="33" column="10" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="17" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="24" column="51" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="8" column="41" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="23" column="28" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="27" column="16" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="47" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="45" column="26" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="13" column="49" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="25" column="25" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="22" column="39" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="376" column="14" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-android/1.5.0/d096c6e1ab398990ce7c05e3003f79320b4235c/ui-android-1.5.0-sources.jar!/commonMain/androidx/compose/ui/Modifier.kt" />
+      <jump line="378" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-android/1.5.0/d096c6e1ab398990ce7c05e3003f79320b4235c/ui-android-1.5.0-sources.jar!/commonMain/androidx/compose/ui/Modifier.kt" />
+      <jump line="383" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-android/1.5.0/d096c6e1ab398990ce7c05e3003f79320b4235c/ui-android-1.5.0-sources.jar!/commonMain/androidx/compose/ui/Modifier.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="12" column="34" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="20" column="19" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="26" column="20" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="10" column="48" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="41" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="35" column="4" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="39" column="1" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="34" column="58" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="31" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="36" column="53" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="30" column="4" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="29" column="8" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+    </project>
+    <project id="My Application">
+      <jump line="24" column="12" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="31" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="26" column="10" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="30" column="4" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="47" column="0" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+      <jump line="20" column="19" filename="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/ui/theme/Color.kt" timestamp="1717663882906">
+        <mark key="&quot;" line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity-compose/1.8.0/6c5ebff07639f79cfcf9f86a3e08a7c9397748f8/activity-compose-1.8.0-sources.jar!/androidx/activity/compose/ComponentActivity.kt" timestamp="1717668914013">
+        <mark key="&quot;" line="50" column="29" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3/1.1.1/b9a3d0f4c53337afaae41359428fccab65f915c3/material3-1.1.1-sources.jar!/androidx/compose/material3/Scaffold.kt" timestamp="1717668918996">
+        <mark key="&quot;" line="73" column="4" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-android/1.5.0/d096c6e1ab398990ce7c05e3003f79320b4235c/ui-android-1.5.0-sources.jar!/commonMain/androidx/compose/ui/Modifier.kt" timestamp="1717676868626">
+        <mark key="&quot;" line="383" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" timestamp="1717676899387">
+        <mark key="&quot;" line="32" column="0" />
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.8.0/d56176e5b2b55654d898039f3c3685cc9c221af7/activity-1.8.0-sources.jar!/androidx/activity/ComponentActivity.java" timestamp="1717668911495">
+        <mark key="&quot;" line="118" column="13" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/ui/theme/Theme.kt" timestamp="1717668922624">
+        <mark key="&quot;" line="36" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MyApplication/app/src/main/java/com/example/myapplication/ui/theme/Type.kt" timestamp="1717663882460">
+        <mark key="&quot;" line="26" column="40" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-android/1.5.0/93fe41cafd1a48e258d7a55d849f77255b8b2b61/runtime-android-1.5.0-sources.jar!/commonMain/androidx/compose/runtime/Composable.kt" timestamp="1717668908961">
+        <mark key="&quot;" line="59" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgo=</text>
+      </register>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgo=</text>
+      </register>
+      <register name="2" type="CHARACTER_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgZW5hYmxlRWRnZVRvRWRnZSgpCiAgICAgICAgc2V0Q29udGVudCB7CiAgICAgICAgICAgIE15QXBwbGljYXRpb25UaGVtZSB7CiAgICAgICAgICAgICAgICBTY2FmZm9sZChtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhTaXplKCkpIHsgaW5uZXJQYWRkaW5nIC0+CiAgICAgICAgICAgICAgICAgICAgR3JlZXRpbmcoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lID0gIkFuZHJvaWQgU3R1ZGlvIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIucGFkZGluZyhpbm5lclBhZGRpbmcpCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
+      </register>
+      <register name="4" type="CHARACTER_WISE">
+        <text encoding="base64">IHsKICAgIFRleHQoCiAgICAgICAgICAgIHRleHQgPSAiSGVsbG8gJG5hbWUhLCBob3cgYXJlIHlvdSBkb2luZz8iLAogICAgICAgICAgICBtb2RpZmllciA9IG1vZGlmaWVyCiAgICApCn0=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">QFByZXZpZXcoc2hvd0JhY2tncm91bmQgPSB0cnVlKQo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">cQ==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

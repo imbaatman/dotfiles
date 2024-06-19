@@ -1,0 +1,6 @@
+2024/06/04-14:47:39.046 58e50 Creating DB /home/batman/.config/chromium/Default/WebStorage/5/IndexedDB/indexeddb.leveldb since it was missing.
+2024/06/04-14:47:39.048 58e50 Reusing MANIFEST /home/batman/.config/chromium/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/06/04-14:47:45.866 58e49 Level-0 table #5: started
+2024/06/04-14:47:45.867 58e49 Level-0 table #5: 7733 bytes OK
+2024/06/04-14:47:45.869 58e49 Delete type=0 #3
+2024/06/04-14:47:45.870 58e49 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

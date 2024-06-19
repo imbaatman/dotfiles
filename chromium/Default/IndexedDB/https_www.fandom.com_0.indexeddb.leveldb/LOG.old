@@ -1,0 +1,15 @@
+2024/06/19-13:07:15.322 66f Reusing MANIFEST /home/batman/.config/chromium/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-13:07:15.322 66f Recovering log #7
+2024/06/19-13:07:15.322 66f Reusing old log /home/batman/.config/chromium/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000007.log 
+2024/06/19-13:07:24.670 66f Level-0 table #12: started
+2024/06/19-13:07:24.672 66f Level-0 table #12: 3189 bytes OK
+2024/06/19-13:07:24.673 66f Delete type=0 #7
+2024/06/19-13:07:24.674 66f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/19-13:07:24.674 66f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x03\x00\x00\x00\x00\x00\x00(@' @ 397 : 1
+2024/06/19-13:07:24.674 66f Compacting 1@1 + 1@2 files
+2024/06/19-13:07:24.675 66f Generated table #13@1: 89 keys, 3053 bytes
+2024/06/19-13:07:24.675 66f Compacted 1@1 + 1@2 files => 3053 bytes
+2024/06/19-13:07:24.677 66f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-13:07:24.677 66f Delete type=2 #12
+2024/06/19-13:07:24.677 66f Delete type=2 #9
+2024/06/19-13:07:24.677 66f Manual compaction at level-1 from '\x00\x01\x03\x02\x03\x00\x00\x00\x00\x00\x00(@' @ 397 : 1 .. (end); will stop at (end)

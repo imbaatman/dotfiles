@@ -1,0 +1,30 @@
+2024/06/19-08:51:39.429 67c Reusing MANIFEST /home/batman/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-08:51:39.429 67c Recovering log #13
+2024/06/19-08:51:39.431 67c Reusing old log /home/batman/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000013.log 
+2024/06/19-08:51:51.342 67e Compacting 1@1 + 1@2 files
+2024/06/19-08:51:51.352 67e Generated table #16@1: 69 keys, 75710 bytes
+2024/06/19-08:51:51.352 67e Compacted 1@1 + 1@2 files => 75710 bytes
+2024/06/19-08:51:51.353 67e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-08:51:51.354 67e Delete type=2 #12
+2024/06/19-08:51:51.354 67e Delete type=2 #14
+2024/06/19-10:30:49.651 66f Level-0 table #18: started
+2024/06/19-10:30:49.687 66f Level-0 table #18: 2903547 bytes OK
+2024/06/19-10:30:49.691 66f Delete type=0 #13
+2024/06/19-12:54:46.991 67d Compacting 1@1 + 1@2 files
+2024/06/19-12:54:47.012 67d Generated table #19@1: 180 keys, 486442 bytes
+2024/06/19-12:54:47.013 67d Compacted 1@1 + 1@2 files => 486442 bytes
+2024/06/19-12:54:47.014 67d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-12:54:47.014 67d Delete type=2 #16
+2024/06/19-12:54:47.014 67d Delete type=2 #18
+2024/06/19-17:04:00.340 66f Level-0 table #21: started
+2024/06/19-17:04:00.359 66f Level-0 table #21: 2279436 bytes OK
+2024/06/19-17:04:00.362 66f Delete type=0 #17
+2024/06/19-17:04:00.363 66f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/19-17:04:00.363 66f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 13075 : 0
+2024/06/19-17:04:00.363 66f Compacting 1@1 + 1@2 files
+2024/06/19-17:04:00.371 66f Generated table #22@1: 79 keys, 137001 bytes
+2024/06/19-17:04:00.371 66f Compacted 1@1 + 1@2 files => 137001 bytes
+2024/06/19-17:04:00.372 66f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-17:04:00.373 66f Delete type=2 #21
+2024/06/19-17:04:00.373 66f Delete type=2 #19
+2024/06/19-17:04:00.373 66f Manual compaction at level-1 from '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 13075 : 0 .. (end); will stop at (end)

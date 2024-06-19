@@ -1,0 +1,6 @@
+2024/06/13-12:06:47.038 a94 Creating DB /home/batman/.config/chromium/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb since it was missing.
+2024/06/13-12:06:47.042 a94 Reusing MANIFEST /home/batman/.config/chromium/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/13-12:06:49.295 a95 Level-0 table #5: started
+2024/06/13-12:06:49.296 a95 Level-0 table #5: 857 bytes OK
+2024/06/13-12:06:49.298 a95 Delete type=0 #3
+2024/06/13-12:06:49.298 a95 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

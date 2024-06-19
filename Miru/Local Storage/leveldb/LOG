@@ -1,0 +1,5 @@
+2024/06/17-18:38:56.989 9c84 Reusing MANIFEST /home/batman/.config/Miru/Local Storage/leveldb/MANIFEST-000001
+2024/06/17-18:38:56.991 9c84 Recovering log #10
+2024/06/17-18:38:56.992 9c84 Level-0 table #13: started
+2024/06/17-18:38:56.999 9c84 Level-0 table #13: 153886 bytes OK
+2024/06/17-18:38:57.001 9c84 Delete type=0 #10

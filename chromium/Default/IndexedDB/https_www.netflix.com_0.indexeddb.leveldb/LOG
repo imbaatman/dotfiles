@@ -1,0 +1,12 @@
+2024/06/19-16:14:32.395 67e Reusing MANIFEST /home/batman/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-16:14:32.395 67e Recovering log #113
+2024/06/19-16:14:32.408 67e Reusing old log /home/batman/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000113.log 
+2024/06/19-16:24:32.536 66f Level-0 table #119: started
+2024/06/19-16:24:32.567 66f Level-0 table #119: 2317212 bytes OK
+2024/06/19-16:24:32.569 66f Delete type=0 #113
+2024/06/19-16:37:20.027 66e Compacting 1@1 + 1@2 files
+2024/06/19-16:37:20.046 66e Generated table #120@1: 57 keys, 59752 bytes
+2024/06/19-16:37:20.046 66e Compacted 1@1 + 1@2 files => 59752 bytes
+2024/06/19-16:37:20.047 66e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-16:37:20.048 66e Delete type=2 #119
+2024/06/19-16:37:20.048 66e Delete type=2 #116

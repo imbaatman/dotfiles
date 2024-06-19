@@ -1,0 +1,39 @@
+2024/06/19-09:48:50.308 67c Reusing MANIFEST /home/batman/.config/chromium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-09:48:50.309 67c Recovering log #4
+2024/06/19-09:48:50.309 67c Reusing old log /home/batman/.config/chromium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000004.log 
+2024/06/19-11:32:01.868 66f Level-0 table #8: started
+2024/06/19-11:32:01.887 66f Level-0 table #8: 866072 bytes OK
+2024/06/19-11:32:01.891 66f Delete type=0 #4
+2024/06/19-11:32:57.863 66f Compacting 1@1 + 1@2 files
+2024/06/19-11:32:57.906 66f Generated table #9@1: 182 keys, 5768 bytes
+2024/06/19-11:32:57.906 66f Compacted 1@1 + 1@2 files => 5768 bytes
+2024/06/19-11:32:57.908 66f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-11:32:57.908 66f Delete type=2 #8
+2024/06/19-11:32:57.909 66f Delete type=2 #5
+2024/06/19-13:25:42.414 66f Level-0 table #11: started
+2024/06/19-13:25:42.453 66f Level-0 table #11: 683715 bytes OK
+2024/06/19-13:25:42.455 66f Delete type=0 #7
+2024/06/19-13:27:57.968 66e Compacting 1@1 + 1@2 files
+2024/06/19-13:27:57.999 66e Generated table #12@1: 173 keys, 3119 bytes
+2024/06/19-13:27:57.999 66e Compacted 1@1 + 1@2 files => 3119 bytes
+2024/06/19-13:27:58.001 66e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-13:27:58.002 66e Delete type=2 #9
+2024/06/19-13:27:58.002 66e Delete type=2 #11
+2024/06/19-15:05:04.865 67e Level-0 table #14: started
+2024/06/19-15:05:04.906 67e Level-0 table #14: 700024 bytes OK
+2024/06/19-15:05:04.908 67e Delete type=0 #10
+2024/06/19-15:07:24.866 69e Compacting 1@1 + 1@2 files
+2024/06/19-15:07:24.891 69e Generated table #15@1: 176 keys, 3387 bytes
+2024/06/19-15:07:24.892 69e Compacted 1@1 + 1@2 files => 3387 bytes
+2024/06/19-15:07:24.893 69e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-15:07:24.893 69e Delete type=2 #12
+2024/06/19-15:07:24.893 69e Delete type=2 #14
+2024/06/19-17:00:05.871 66f Level-0 table #17: started
+2024/06/19-17:00:05.894 66f Level-0 table #17: 733406 bytes OK
+2024/06/19-17:00:05.896 66f Delete type=0 #13
+2024/06/19-17:02:22.883 66e Compacting 1@1 + 1@2 files
+2024/06/19-17:02:22.912 66e Generated table #18@1: 177 keys, 3354 bytes
+2024/06/19-17:02:22.912 66e Compacted 1@1 + 1@2 files => 3354 bytes
+2024/06/19-17:02:22.913 66e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-17:02:22.914 66e Delete type=2 #15
+2024/06/19-17:02:22.914 66e Delete type=2 #17

@@ -1,0 +1,11 @@
+[org/gnome/desktop/interface]
+cursor-size=20
+document-font-name='Cantarell 10'
+monospace-font-name='CaskaydiaCove Nerd Font Mono 9'
+font-antialiasing='rgba'
+font-hinting='full'
+icon-theme='Tela-circle-grey'
+gtk-theme='Wallbash-Gtk'
+color-scheme='prefer-dark'
+cursor-theme='Bibata-Modern-Ice'
+font-name='Cantarell 10'

@@ -1,0 +1,9 @@
+2024/06/19-16:56:07.319 680 Reusing MANIFEST /home/batman/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-16:56:07.319 680 Recovering log #54
+2024/06/19-16:56:07.320 680 Reusing old log /home/batman/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000054.log 
+2024/06/19-16:56:08.688 67f Compacting 1@1 + 1@2 files
+2024/06/19-16:56:08.693 67f Generated table #57@1: 482 keys, 40112 bytes
+2024/06/19-16:56:08.694 67f Compacted 1@1 + 1@2 files => 40112 bytes
+2024/06/19-16:56:08.695 67f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-16:56:08.696 67f Delete type=2 #55
+2024/06/19-16:56:08.696 67f Delete type=2 #52

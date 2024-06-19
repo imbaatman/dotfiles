@@ -1,0 +1,6 @@
+2024/06/19-08:52:33.537 67d Creating DB /home/batman/.config/chromium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb since it was missing.
+2024/06/19-08:52:33.540 67d Reusing MANIFEST /home/batman/.config/chromium/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-09:48:48.230 67d Level-0 table #5: started
+2024/06/19-09:48:48.241 67d Level-0 table #5: 355708 bytes OK
+2024/06/19-09:48:48.242 67d Delete type=0 #3
+2024/06/19-09:48:48.243 67d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

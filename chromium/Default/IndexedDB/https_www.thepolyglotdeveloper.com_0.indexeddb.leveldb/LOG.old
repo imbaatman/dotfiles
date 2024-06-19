@@ -1,0 +1,7 @@
+2024/06/13-11:03:08.825 a95 Reusing MANIFEST /home/batman/.config/chromium/Default/IndexedDB/https_www.thepolyglotdeveloper.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/13-11:03:08.826 a95 Recovering log #3
+2024/06/13-11:03:08.826 a95 Reusing old log /home/batman/.config/chromium/Default/IndexedDB/https_www.thepolyglotdeveloper.com_0.indexeddb.leveldb/000003.log 
+2024/06/13-11:05:16.675 a95 Level-0 table #5: started
+2024/06/13-11:05:16.677 a95 Level-0 table #5: 25734 bytes OK
+2024/06/13-11:05:16.679 a95 Delete type=0 #3
+2024/06/13-11:05:16.679 a95 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,30 @@
+2024/06/19-08:46:25.048 4 Reusing MANIFEST /home/batman/.config/chromium/Default/Session Storage/MANIFEST-000001
+2024/06/19-08:46:25.049 4 Recovering log #103
+2024/06/19-08:46:25.051 4 Reusing old log /home/batman/.config/chromium/Default/Session Storage/000103.log 
+2024/06/19-10:00:08.693 6 Level-0 table #108: started
+2024/06/19-10:00:08.714 6 Level-0 table #108: 19788 bytes OK
+2024/06/19-10:00:08.733 6 Delete type=0 #103
+2024/06/19-10:09:42.878 6 Level-0 table #110: started
+2024/06/19-10:09:42.880 6 Level-0 table #110: 19213 bytes OK
+2024/06/19-10:09:42.882 6 Delete type=0 #107
+2024/06/19-12:29:31.752 6 Level-0 table #112: started
+2024/06/19-12:29:31.755 6 Level-0 table #112: 22261 bytes OK
+2024/06/19-12:29:31.757 6 Delete type=0 #109
+2024/06/19-17:42:22.581 6 Level-0 table #114: started
+2024/06/19-17:42:22.586 6 Level-0 table #114: 24249 bytes OK
+2024/06/19-17:42:22.589 6 Delete type=0 #111
+2024/06/19-17:42:22.591 6 Compacting 4@0 + 1@1 files
+2024/06/19-17:42:22.601 6 Generated table #115@0: 4625 keys, 113885 bytes
+2024/06/19-17:42:22.601 6 Compacted 4@0 + 1@1 files => 113885 bytes
+2024/06/19-17:42:22.602 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/19-17:42:22.603 6 Delete type=2 #108
+2024/06/19-17:42:22.603 6 Delete type=2 #110
+2024/06/19-17:42:22.603 6 Delete type=2 #112
+2024/06/19-17:42:22.603 6 Delete type=2 #105
+2024/06/19-17:42:22.603 6 Delete type=2 #114
+2024/06/19-17:44:26.053 6 Level-0 table #117: started
+2024/06/19-17:44:26.060 6 Level-0 table #117: 80475 bytes OK
+2024/06/19-17:44:26.063 6 Delete type=0 #113
+2024/06/19-17:46:46.391 6 Level-0 table #119: started
+2024/06/19-17:46:46.399 6 Level-0 table #119: 79787 bytes OK
+2024/06/19-17:46:46.402 6 Delete type=0 #116

@@ -1,0 +1,23 @@
+2024/06/18-18:05:01.738 1f57 Reusing MANIFEST /home/batman/.config/chromium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2024/06/18-18:05:01.739 1f57 Recovering log #52
+2024/06/18-18:05:01.750 1f57 Level-0 table #55: started
+2024/06/18-18:05:01.761 1f57 Level-0 table #55: 1794112 bytes OK
+2024/06/18-18:05:01.763 1f57 Delete type=0 #52
+2024/06/18-18:21:52.251 1f57 Level-0 table #58: started
+2024/06/18-18:21:52.268 1f57 Level-0 table #58: 1776523 bytes OK
+2024/06/18-18:21:52.271 1f57 Delete type=0 #56
+2024/06/18-18:31:32.060 1f4f Level-0 table #60: started
+2024/06/18-18:31:32.076 1f4f Level-0 table #60: 1797570 bytes OK
+2024/06/18-18:31:32.078 1f4f Delete type=0 #57
+2024/06/18-18:31:32.079 1f4f Compacting 4@0 + 1@1 files
+2024/06/18-18:31:32.086 1f4f Generated table #61@0: 3 keys, 34384 bytes
+2024/06/18-18:31:32.086 1f4f Compacted 4@0 + 1@1 files => 34384 bytes
+2024/06/18-18:31:32.088 1f4f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/18-18:31:32.088 1f4f Delete type=2 #55
+2024/06/18-18:31:32.088 1f4f Delete type=2 #53
+2024/06/18-18:31:32.088 1f4f Delete type=2 #60
+2024/06/18-18:31:32.088 1f4f Delete type=2 #50
+2024/06/18-18:31:32.088 1f4f Delete type=2 #58
+2024/06/18-19:26:51.171 1f4f Level-0 table #63: started
+2024/06/18-19:26:51.186 1f4f Level-0 table #63: 1787758 bytes OK
+2024/06/18-19:26:51.190 1f4f Delete type=0 #59
